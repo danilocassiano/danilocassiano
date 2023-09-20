@@ -47,6 +47,8 @@ Professionally, I like working in a team, self-management and reconciling activi
 <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </div>
 
+</br>
 
+![Snake animation](https://github.com/danilocassiano/danilocassiano/blob/output/github-contribution-grid-snake.svg)
 
 

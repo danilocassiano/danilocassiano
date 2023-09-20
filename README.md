@@ -26,11 +26,15 @@
 </br>
 
 <p align="left"> 
-Hi, I'm looking for opportunities in the Full Stack development area. I have a history of working in different administrative sectors, such as HR and Project Management.
-Seeking constant improvement, developing myself in the information technology sector in languages such as HTML, JavaScript, CSS, Database, PHP-Laravel and Java.
+Hello, I'm actively seeking opportunities in the field of Full Stack Development. I bring a diverse background in administrative roles, including HR and Project Management, which has honed my adaptability and problem-solving skills.
 
-I am a communicative, extroverted person who likes to get along with everyone. However, I am also calm and like to have my assignments scheduled.
-Professionally, I like working in a team, self-management and reconciling activities. And on a personal level, I love traveling, playing the guitar and whenever I can, I'm in the company of loved ones.
+I am committed to continuous improvement and have been actively expanding my expertise in the field of Information Technology, with a focus on languages like HTML, JavaScript, CSS, and database management. I've also dedicated myself to mastering PHP-Laravel and, most recently, delving into the world of Java programming.
+
+Beyond my technical abilities, I am a highly communicative and outgoing individual who thrives on positive interactions. My calm demeanor allows me to excel in structured, task-oriented environments. Professionally, I excel in collaborative teamwork, self-management, and juggling multiple responsibilities effectively.
+
+Outside of work, I am an avid traveler and a passionate guitar player. Whenever I can, I cherish spending quality time with loved ones.
+
+I am excited to leverage my evolving skills, including my recent Java studies, to contribute value to your organization as a Full Stack Developer.
 </p>
 
 </br>
